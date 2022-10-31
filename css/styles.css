@@ -194,6 +194,11 @@ ul {
   max-height: 600px;
   background-color: #2f303a;
 }
+
+.main-title {
+  font-size: 44px;
+}
+
 .list {
   display: flex;
   color: #757575;
@@ -567,7 +572,6 @@ section {
   background-color: var(--lightblue);
   border-radius: 2px;
   position: absolute;
-  left: 453;
   top: 76px;
 }
 
@@ -579,7 +583,6 @@ section {
   background-color: var(--lightblue);
   border-radius: 2px;
   position: absolute;
-  left: 552;
   top: 76px;
 }
 
